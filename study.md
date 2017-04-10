@@ -1,4 +1,4 @@
-# Structure Query Language Study
+# Structured Query Language Study
 
 Use your favorite search engine and the provided readings to research and
 respond to the following questions.
@@ -33,7 +33,7 @@ Show the characters and give their name.
 <!-- replace this comment with your answer -->
 ```
 
-What characters indicate a possibly repeating element in a command?
+What characters indicate a possible repeating element in a command?
 Show the characters and give their name.
 
 ```md
